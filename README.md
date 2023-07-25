@@ -20,7 +20,7 @@
       <br>
   <li>O programa ultiliza a biblioteca "System.IO" do .NET para acessar e exibir os diretórios.</li>
       <br>
-  <li>Tenha em mente que em diretórios muitos grandes, ele pode levar algum tempo para concluir a execução.</li>
+  <li>Tenha em mente que em diretórios grandes, ele pode levar algum tempo para concluir a execução.</li>
 </ol>
 <br>
 <h2>Contribuições</h2>
