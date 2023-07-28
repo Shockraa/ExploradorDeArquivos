@@ -4,7 +4,7 @@
 <h2>Como usar</h2>
 <p>  Para usar, certifique-se de ter o C# e o Visual Studio, Visual Studio Code ou qualquer outro ambiente de desenvolvimento instalado na máquina.</p>
 <ol>
-      <li>Clone o repositório ou abra e o arquivo "program.cs" em um editor de código, como o Visual Studio.</li>
+      <li>Clone o repositório ou abra o arquivo "program.cs" em um editor de código, como o Visual Studio.</li>
       <br>
       <li>O programa terá o diretório raiz definido como "C:\\", caso queira mudar basta modificar a linha: " foreach (string arquivo in GetArquivos("C:\\")) " com o diretório raiz escolhido.</li>
       <br>
